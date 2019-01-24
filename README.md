@@ -9,5 +9,5 @@ tensorflow学习例子，主要是参考tensorflow官方网站内容
 其中data目录下主要是相关的一些数据。
 
 ## eager_basic目录
-介绍tensorflow 如何使用eager模式。eager_basic.py包括tensorflow中一些基本的操作。
+介绍tensorflow 如何使用eager模式。主要包括如何自定义微分计算，如何自定义层，如何自定义训练。eager_basic.py包括tensorflow中一些基本的操作。
 auto_differentiation.py介绍如何自动求取微分。
